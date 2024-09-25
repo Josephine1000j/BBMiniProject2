@@ -9,7 +9,7 @@ boardsDict = {
     "6.jpg":43,
     "7.jpg":52,
     "8.jpg":42,
-    #9-12 er inkomplette boards
+    #9-12 er inkomplette boards (den er ikke fyldt 5X5 ud)
     "9.jpg":45,
     "10.jpg":34,
     "11.jpg":49,
